@@ -1,16 +1,6 @@
-# untitled1
+# шкаф 
 
-A new Flutter project.
+## Скрин шкафа без цифор...Извините что так поздно Я исправлюсь
+![image](https://github.com/Xmmmmm000/2laba/assets/156674182/81fdafd2-1dcc-4212-9bfb-19d5c0762dd2)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
